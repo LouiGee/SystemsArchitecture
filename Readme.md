@@ -5,8 +5,8 @@
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 2\
-**Hours per day needed**: 1 
+**Current**: 3\
+**Hours per day needed**: ?
 
 ### 25/09/2024
 
@@ -21,3 +21,7 @@
 <img width="858" alt="Screenshot 2024-09-25 at 15 41 22" src="https://github.com/user-attachments/assets/a082c1a2-c667-4914-8549-b9e6e74aae07">
 
 ![Uploading Screenshot 2024-09-25 at 15.55.14.png…]()
+
+<img width="856" alt="Screenshot 2024-09-25 at 15 57 22" src="https://github.com/user-attachments/assets/53047fc9-2423-41c7-a66e-cdd1a36d76e8">
+
+<img width="864" alt="Screenshot 2024-09-25 at 16 03 04" src="https://github.com/user-attachments/assets/5fdb3890-6ecd-44b3-9d1d-ef6ba19c4d43">
