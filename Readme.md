@@ -1,5 +1,4 @@
-# Ratify
-Object oriented programming using Java
+# Systems Architecture
 
 ## Exam Structure 
 25% Coursework and 75% Examination
