@@ -1,7 +1,7 @@
 # Systems Architecture
 
 ## Exam Structure 
-25% Coursework and 75% Examination
+25% Coursework (4 Practicals) and 75% Examination
 
 ## Target hours revision 
 **Target**: 150 \
