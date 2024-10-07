@@ -127,3 +127,10 @@ Inventor of the modern adder Charles babbage
 ![Screenshot 2024-10-07 at 11 18 06](https://github.com/user-attachments/assets/8f4ec633-f74e-46a0-8e5e-a68cdcdec972)
 
 ![Screenshot 2024-10-07 at 11 18 14](https://github.com/user-attachments/assets/c929d2db-0a68-4dd8-81cb-68a7db5d4fc0)
+
+0b6 - 0b8
+
+6 = 0110 
+Finding the two complement of 8 = 1000 = 0111 = 1000
+
+1110
