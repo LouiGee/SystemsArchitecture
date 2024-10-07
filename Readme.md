@@ -8,7 +8,7 @@
 **Current**: 7\
 **Hours per day needed**: ?
 
-### 25/09/2024
+### Lecture 1 - introduction; numbers and logic 25/09/2024
 
 <img width="933" alt="Screenshot 2024-09-25 at 15 34 19" src="https://github.com/user-attachments/assets/912fffdc-e93b-413e-95a7-7a44b41b9ba0">
 
@@ -24,3 +24,11 @@
 <img width="856" alt="Screenshot 2024-09-25 at 15 57 22" src="https://github.com/user-attachments/assets/53047fc9-2423-41c7-a66e-cdd1a36d76e8">
 
 <img width="864" alt="Screenshot 2024-09-25 at 16 03 04" src="https://github.com/user-attachments/assets/5fdb3890-6ecd-44b3-9d1d-ef6ba19c4d43">
+
+### Lecture 2  Gates and arithmetic; boolean algebra; ALU 01/10/2024
+
+
+
+
+
+### Lecture 3  Programs as instructions; recursion; negative numbers; data representation 07/10/2024
