@@ -140,6 +140,8 @@ Finding the two complement of 8 = 1000 = 0111 = 1000 (add trailing one to 0111)
 
 <img width="678" alt="Screenshot 2024-10-07 at 17 02 50" src="https://github.com/user-attachments/assets/7af8f692-ba03-4f91-9af9-113844c2bc3a">
 
+LD is load
+
 <img width="682" alt="Screenshot 2024-10-07 at 17 03 16" src="https://github.com/user-attachments/assets/82d2c873-a9db-420a-886d-a0426816236d">
 
 <img width="673" alt="Screenshot 2024-10-07 at 17 03 41" src="https://github.com/user-attachments/assets/22944a59-11c5-46d9-b933-a533040a32ab">
