@@ -5,7 +5,7 @@
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 6\
+**Current**: 7\
 **Hours per day needed**: ?
 
 ### 25/09/2024
