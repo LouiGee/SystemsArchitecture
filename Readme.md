@@ -150,6 +150,10 @@ LD is load
 
 <img width="449" alt="Screenshot 2024-10-07 at 17 05 01" src="https://github.com/user-attachments/assets/8c6d28ac-e81d-4f27-b0e7-cf2ba3f323d1">
 
+LD is load
+
+ALU is arithemetic logic unit
+
 <img width="451" alt="Screenshot 2024-10-07 at 17 05 20" src="https://github.com/user-attachments/assets/3fc935fe-f201-412f-88bf-fa84dc5c4167">
 
 <img width="451" alt="Screenshot 2024-10-07 at 17 05 43" src="https://github.com/user-attachments/assets/482e99fa-f265-47de-881c-3c1e395755ec">
