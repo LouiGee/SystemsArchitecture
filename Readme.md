@@ -114,7 +114,7 @@ Inventor of the modern adder Charles babbage
 
 ![Screenshot 2024-10-07 at 10 44 21](https://github.com/user-attachments/assets/e23cbf51-aba3-4adb-be2b-0ad7b14ac8c7)
 
-### Lecture 4  Programs as instructions; numbers; arithmetic; logic 07/10/2024
+### Lecture 4 & 5  Programs as instructions; numbers; arithmetic; logic & Instruction set architecture 07/10/2024
 
 ![Screenshot 2024-10-07 at 11 12 20](https://github.com/user-attachments/assets/1428c3d0-e624-4e6f-84e8-55e49d57d141)
 
@@ -135,4 +135,34 @@ Finding the two complement of 8 = 1000 = 0111 = 1000 (add trailing one to 0111)
 
 0110 - 1000 = 1110 (answer given as -2 in twos complement form)
 
+
+<img width="682" alt="Screenshot 2024-10-07 at 17 02 21" src="https://github.com/user-attachments/assets/6d039963-14fc-45ba-987f-c750572c9f90">
+
+<img width="678" alt="Screenshot 2024-10-07 at 17 02 50" src="https://github.com/user-attachments/assets/7af8f692-ba03-4f91-9af9-113844c2bc3a">
+
+<img width="682" alt="Screenshot 2024-10-07 at 17 03 16" src="https://github.com/user-attachments/assets/82d2c873-a9db-420a-886d-a0426816236d">
+
+<img width="673" alt="Screenshot 2024-10-07 at 17 03 41" src="https://github.com/user-attachments/assets/22944a59-11c5-46d9-b933-a533040a32ab">
+
+<img width="452" alt="Screenshot 2024-10-07 at 17 04 38" src="https://github.com/user-attachments/assets/f6a83971-dba3-4631-ac88-466e71629572">
+
+<img width="449" alt="Screenshot 2024-10-07 at 17 05 01" src="https://github.com/user-attachments/assets/8c6d28ac-e81d-4f27-b0e7-cf2ba3f323d1">
+
+<img width="451" alt="Screenshot 2024-10-07 at 17 05 20" src="https://github.com/user-attachments/assets/3fc935fe-f201-412f-88bf-fa84dc5c4167">
+
+<img width="451" alt="Screenshot 2024-10-07 at 17 05 43" src="https://github.com/user-attachments/assets/482e99fa-f265-47de-881c-3c1e395755ec">
+
+<img width="455" alt="Screenshot 2024-10-07 at 17 06 20" src="https://github.com/user-attachments/assets/751eb872-22a7-4a42-81b7-313b1c7bc26a">
+
+<img width="456" alt="Screenshot 2024-10-07 at 17 06 38" src="https://github.com/user-attachments/assets/a3df5e68-851f-4c06-8881-c509392c81ef">
+
+<img width="455" alt="Screenshot 2024-10-07 at 17 06 59" src="https://github.com/user-attachments/assets/e8f5aa22-0ed2-4d85-b7b3-6335918d4027">
+
+<img width="455" alt="Screenshot 2024-10-07 at 17 07 25" src="https://github.com/user-attachments/assets/3097d313-2aa7-4656-bd1d-416a57bd42ec">
+
+<img width="454" alt="Screenshot 2024-10-07 at 17 07 55" src="https://github.com/user-attachments/assets/3e2e5525-78d8-4e8f-93a0-32fc4ab3a561">
+
+<img width="456" alt="Screenshot 2024-10-07 at 17 08 37" src="https://github.com/user-attachments/assets/c4d76450-d710-4cd5-b065-f23c65fda7e1">
+
+<img width="458" alt="Screenshot 2024-10-07 at 17 09 15" src="https://github.com/user-attachments/assets/8a0bc159-7075-44ca-94db-f802ff458b69">
 
