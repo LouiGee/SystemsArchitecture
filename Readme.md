@@ -5,10 +5,10 @@
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 7\
+**Current**: 7.5\
 **Hours per day needed**: ?
 
-### Lecture 1 - introduction; numbers and logic 25/09/2024
+### Lecture 1 & 2 - introduction; numbers and logic 25/09/2024
 ![Screenshot 2024-10-07 at 09 51 00](https://github.com/user-attachments/assets/c5790a7f-487e-4d52-ad39-1bfb4513cb40)
 
 ![Screenshot 2024-10-07 at 09 48 01](https://github.com/user-attachments/assets/21f9fa36-969d-4bb7-9093-c3fcbfbbfacd)
@@ -82,18 +82,48 @@ Impact on Modern Computing: Von Neumann’s architecture directly influenced the
 <img width="858" alt="Screenshot 2024-09-25 at 15 41 22" src="https://github.com/user-attachments/assets/a082c1a2-c667-4914-8549-b9e6e74aae07">
 
 
+### Lecture 3  Gates and arithmetic; boolean algebra; ALU 01/10/2024
+
 <img width="856" alt="Screenshot 2024-09-25 at 15 57 22" src="https://github.com/user-attachments/assets/53047fc9-2423-41c7-a66e-cdd1a36d76e8">
 
 <img width="864" alt="Screenshot 2024-09-25 at 16 03 04" src="https://github.com/user-attachments/assets/5fdb3890-6ecd-44b3-9d1d-ef6ba19c4d43">
 
+![Screenshot 2024-10-07 at 10 34 53](https://github.com/user-attachments/assets/9ea3d62a-fca8-4988-9eaa-1b3e45b8dd03)
 
+![Screenshot 2024-10-07 at 10 35 27](https://github.com/user-attachments/assets/f13294e9-0e42-4b2e-b866-c2050ed2752b)
 
-### Lecture 2  Gates and arithmetic; boolean algebra; ALU 01/10/2024
+![Screenshot 2024-10-07 at 10 36 29](https://github.com/user-attachments/assets/ef6de098-a73c-442c-a94c-697860ce9fe5)
 
+![Screenshot 2024-10-07 at 10 36 54](https://github.com/user-attachments/assets/45d9507c-3f0b-4350-bbfe-2afbfd4695fc)
 
+![Screenshot 2024-10-07 at 10 37 12](https://github.com/user-attachments/assets/6f9e51dc-ee6b-4bb7-acc3-9bbefcb09a9b)
 
+![Screenshot 2024-10-07 at 10 37 42](https://github.com/user-attachments/assets/8af9ddca-6d2a-44a2-9ceb-f757dbb70cac)
 
+![Screenshot 2024-10-07 at 10 38 49](https://github.com/user-attachments/assets/c2d61a14-f901-4a36-9363-2f565c9879bf)
 
+![Screenshot 2024-10-07 at 10 39 36](https://github.com/user-attachments/assets/c997b687-d3d9-44de-a8fb-890ecb543c70
 
+![Screenshot 2024-10-07 at 10 42 04](https://github.com/user-attachments/assets/cc4f90f8-8f22-4dbc-9bc9-584c448e6725)
 
-### Lecture 3  Programs as instructions; recursion; negative numbers; data representation 07/10/2024
+![Screenshot 2024-10-07 at 10 42 50](https://github.com/user-attachments/assets/4db27fa3-f214-4431-bc25-94dc87c5cfbc)
+
+![Screenshot 2024-10-07 at 10 43 26](https://github.com/user-attachments/assets/afe7a967-55b9-4bc0-9f9d-44f177eed3fe)
+
+Inventor of the modern adder Charles babbage
+
+![Screenshot 2024-10-07 at 10 44 21](https://github.com/user-attachments/assets/e23cbf51-aba3-4adb-be2b-0ad7b14ac8c7)
+
+### Lecture 4  Programs as instructions; numbers; arithmetic; logic 07/10/2024
+
+![Screenshot 2024-10-07 at 11 12 20](https://github.com/user-attachments/assets/1428c3d0-e624-4e6f-84e8-55e49d57d141)
+
+![Screenshot 2024-10-07 at 11 12 35](https://github.com/user-attachments/assets/b425b6fe-4138-44e4-95bb-4a222fb20467)
+
+![Screenshot 2024-10-07 at 11 13 13](https://github.com/user-attachments/assets/59083931-0146-47c7-84d4-615a639cbfea)
+
+![Screenshot 2024-10-07 at 11 17 01](https://github.com/user-attachments/assets/03025a77-b428-4d74-aca8-80024d379888)
+
+![Screenshot 2024-10-07 at 11 18 06](https://github.com/user-attachments/assets/8f4ec633-f74e-46a0-8e5e-a68cdcdec972)
+
+![Screenshot 2024-10-07 at 11 18 14](https://github.com/user-attachments/assets/c929d2db-0a68-4dd8-81cb-68a7db5d4fc0)
