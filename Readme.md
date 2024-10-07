@@ -58,6 +58,19 @@ Quantum entanglement - Where two or more particles become interconnected in such
 
 ![Screenshot 2024-10-07 at 10 27 52](https://github.com/user-attachments/assets/a79c9b7b-e46f-49ff-81ad-624161fce1fd)
 
+
+Von Neumann Architecture
+Stored-Program Concept: Von Neumann’s architecture is based on the idea that both data and instructions are stored in the same memory. This allows the computer to be reprogrammed without altering its hardware1.
+Single Memory Space: Both instructions and data share the same memory and pathways, which simplifies the design but can lead to bottlenecks1.
+Sequential Execution: Instructions are fetched, decoded, and executed one at a time, which can limit speed due to the "von Neumann bottleneck"1.
+Turing’s Universal Machine
+Abstract Model: Turing’s concept of a universal machine is more theoretical. It describes a machine that can simulate any other machine given the correct algorithm and sufficient time2.
+Algorithmic Focus: Turing’s work laid the groundwork for understanding algorithms and computation, emphasizing the logical structure of computation rather than physical implementation2.
+Flexibility: The Turing machine is a model for what can be computed, providing a foundation for the theory of computation and influencing the development of programming languages2.
+Key Differences
+Practical vs. Theoretical: Von Neumann’s architecture is a practical design for building computers, while Turing’s machine is a theoretical model that defines the limits of what can be computed21.
+Memory Structure: Von Neumann’s architecture uses a single memory for both data and instructions, leading to potential bottlenecks. Turing’s model doesn’t specify memory structure but focuses on the logical steps of computation1.
+Impact on Modern Computing: Von Neumann’s architecture directly influenced the design of most modern computers, while Turing’s ideas underpin the theoretical aspects of computer science
 <img width="933" alt="Screenshot 2024-09-25 at 15 34 19" src="https://github.com/user-attachments/assets/912fffdc-e93b-413e-95a7-7a44b41b9ba0">
 
 <img width="923" alt="Screenshot 2024-09-25 at 15 35 17" src="https://github.com/user-attachments/assets/39150857-8819-45d7-b105-894d041b82ca">
@@ -73,7 +86,11 @@ Quantum entanglement - Where two or more particles become interconnected in such
 
 <img width="864" alt="Screenshot 2024-09-25 at 16 03 04" src="https://github.com/user-attachments/assets/5fdb3890-6ecd-44b3-9d1d-ef6ba19c4d43">
 
+
+
 ### Lecture 2  Gates and arithmetic; boolean algebra; ALU 01/10/2024
+
+
 
 
 
