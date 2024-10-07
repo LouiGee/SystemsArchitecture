@@ -56,6 +56,8 @@ Quantum entanglement - Where two or more particles become interconnected in such
 
 ![Screenshot 2024-10-07 at 09 49 44](https://github.com/user-attachments/assets/e761f2dc-e9bd-48a4-8137-517bf4600c7e)
 
+![Screenshot 2024-10-07 at 10 27 52](https://github.com/user-attachments/assets/a79c9b7b-e46f-49ff-81ad-624161fce1fd)
+
 <img width="933" alt="Screenshot 2024-09-25 at 15 34 19" src="https://github.com/user-attachments/assets/912fffdc-e93b-413e-95a7-7a44b41b9ba0">
 
 <img width="923" alt="Screenshot 2024-09-25 at 15 35 17" src="https://github.com/user-attachments/assets/39150857-8819-45d7-b105-894d041b82ca">
