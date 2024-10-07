@@ -133,4 +133,4 @@ Inventor of the modern adder Charles babbage
 6 = 0110 
 Finding the two complement of 8 = 1000 = 0111 = 1000
 
-1110
+1110 - 1111
