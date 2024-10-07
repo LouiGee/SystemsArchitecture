@@ -131,6 +131,8 @@ Inventor of the modern adder Charles babbage
 0b6 - 0b8
 
 6 = 0110 
-Finding the two complement of 8 = 1000 = 0111 = 1000
+Finding the two complement of 8 = 1000 = 0111 = 1000 (add trailing one to 0111)
 
-1110 - 1111
+0110 - 1000 = 1110 (answer given as -2 in twos complement form)
+
+
