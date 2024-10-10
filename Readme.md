@@ -2,10 +2,19 @@
 
 ## Exam Structure 
 25% Coursework (4 Practicals) and 75% Examination
-Quiz 1 - Deadline 01/11/2024
-Quiz 2 - Deadline 29/11/2024
-UNIX Assessment - Deadline 09/12/2024 
-Quiz 3 - Deadline 13/12/2024
+
+## Term Coursework Structure 
+
+#### Advanced Java A1 - 01/11/2024 
+#### Networks Computer-based test (app. 1 hour) (20%) Deadline - 01/11/2024
+#### System Architecture Quiz 1 - Deadline 01/11/2024
+#### Machine Learning Assessment 1 - Deadline 18/11/2024
+#### Advanced Java A2 - 25/11/2024
+#### System Architecture Quiz 2 - Deadline 29/11/2024
+#### System Architecture UNIX Assessment - Deadline 09/12/2024
+#### System ArchitectureQuiz 3 - Deadline 13/12/2024
+#### Networks Problem solving exercises (30%) Deadline - 13/12/2024
+#### Machine Learning Assessment 2 - Deadline 13/01/2024
 
 
 ## Target hours revision 
