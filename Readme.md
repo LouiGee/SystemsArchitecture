@@ -2,6 +2,11 @@
 
 ## Exam Structure 
 25% Coursework (4 Practicals) and 75% Examination
+Quiz 1 - Deadline 01/11/2024
+Quiz 2 - Deadline 29/11/2024
+UNIX Assessment - Deadline 09/12/2024 
+Quiz 3 - Deadline 13/12/2024
+
 
 ## Target hours revision 
 **Target**: 150 \
