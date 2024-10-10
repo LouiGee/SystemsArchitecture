@@ -19,8 +19,66 @@
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 11.5\
+**Current**: 12.5\
 **Hours per day needed**: ?
+
+
+### Practice Test 10/10/2024
+
+![Screenshot 2024-10-10 at 19 51 24](https://github.com/user-attachments/assets/95c5092e-c3a8-41fc-be73-2d6186942405)
+
+Key Characteristics of RISC:
+Simplified Instructions: Each instruction is designed to execute in a single clock cycle, which simplifies the processor design and can lead to higher performance.
+Load/Store Architecture: Data processing operations are performed only on registers, with separate instructions for loading data from memory into registers and storing data back to memory.
+Fixed Instruction Length: Instructions are typically of a uniform length, which simplifies instruction decoding and pipelining.
+Large Number of Registers: RISC architectures often have a large number of general-purpose registers to reduce the frequency of memory access.
+
+![Screenshot 2024-10-10 at 19 53 38](https://github.com/user-attachments/assets/48aff00a-2f26-498c-8497-233b13387762)
+
+![Screenshot 2024-10-10 at 19 57 04](https://github.com/user-attachments/assets/7144c23d-ec33-42b9-8800-2bb5aee21f45)
+
+Key Characteristics of CISC:
+Complex Instructions: CISC processors have a large number of instructions, some of which can perform multi-step operations or complex tasks within a single instruction.
+Variable Instruction Length: Instructions can vary in length, which can make decoding more complex but allows for more flexible and powerful instructions.
+Fewer Registers: Compared to RISC architectures, CISC processors typically have fewer general-purpose registers.
+Microcode: Many CISC instructions are implemented using microcode, which translates complex instructions into simpler, lower-level operations within the CPU.
+
+![Screenshot 2024-10-10 at 19 58 08](https://github.com/user-attachments/assets/f63714b4-03bb-4df7-9e23-e77e59feed70)
+
+![Screenshot 2024-10-10 at 19 58 24](https://github.com/user-attachments/assets/4ce5abe6-5f4b-4a17-9b1e-711e1301e906)
+
+The Arithmetic Logic Unit (ALU) is a critical component of the CPU responsible for performing arithmetic and logical operations. Here are its main functions:
+
+Arithmetic Operations
+Addition: Adding two numbers.
+Subtraction: Subtracting one number from another.
+Multiplication: Multiplying two numbers.
+Division: Dividing one number by another.
+Logical Operations
+AND: Performing a logical AND operation.
+OR: Performing a logical OR operation.
+NOT: Performing a logical NOT operation.
+XOR: Performing a logical XOR operation.
+Bitwise Operations
+Shift Left: Shifting bits to the left.
+Shift Right: Shifting bits to the right.
+Rotate: Rotating bits left or right.
+Comparison Operations
+Equal To: Checking if two values are equal.
+Less Than: Checking if one value is less than another.
+Greater Than: Checking if one value is greater than another.
+Role in CPU
+Data Processing: The ALU processes data from the registers and memory, performing the necessary calculations and logical operations.
+Instruction Execution: It executes the instructions provided by the control unit, which directs the ALU on which operations to perform.
+
+![Screenshot 2024-10-10 at 20 01 12](https://github.com/user-attachments/assets/e9a20d3f-0331-4686-8d32-db21c48eadb4)
+
+![Screenshot 2024-10-10 at 20 08 55](https://github.com/user-attachments/assets/f7f4628c-6277-4e2e-aa56-5e94d0b5c9f9)
+
+![Screenshot 2024-10-10 at 20 09 22](https://github.com/user-attachments/assets/6225d257-e430-4125-b70a-92c0fbbf8387)
+
+
+
 
 ### Lecture 1 & 2 - introduction; numbers and logic 25/09/2024
 ![Screenshot 2024-10-07 at 09 51 00](https://github.com/user-attachments/assets/c5790a7f-487e-4d52-ad39-1bfb4513cb40)
