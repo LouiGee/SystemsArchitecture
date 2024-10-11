@@ -79,6 +79,23 @@ Instruction Execution: It executes the instructions provided by the control unit
 
 ![Screenshot 2024-10-11 at 16 19 39](https://github.com/user-attachments/assets/3717c95e-9049-45e1-aab0-6bfef8772adf)
 
+![Screenshot 2024-10-11 at 16 23 36](https://github.com/user-attachments/assets/51e28227-6f40-40dd-b1f6-5141e7a53fa7)
+
+![Screenshot 2024-10-11 at 16 25 09](https://github.com/user-attachments/assets/c331d891-d790-4f9e-9ac9-da4d5c110003)
+
+![Screenshot 2024-10-11 at 16 26 47](https://github.com/user-attachments/assets/16afb155-6c60-4f82-8cac-cc72c1bbfc34)
+
+![Screenshot 2024-10-11 at 16 27 22](https://github.com/user-attachments/assets/fd8522fc-18d1-45a5-982a-3601ac81030d)
+
+![Screenshot 2024-10-11 at 16 28 17](https://github.com/user-attachments/assets/2792c163-e192-4500-9196-2432c96a1a2f)
+
+![Screenshot 2024-10-11 at 16 30 02](https://github.com/user-attachments/assets/324695c3-fc5b-46ff-9a9d-08d1f8d58fa3)
+
+![Screenshot 2024-10-11 at 16 30 32](https://github.com/user-attachments/assets/db53d1d6-b3df-43f6-86f9-0a744be5ee4a)
+
+![Screenshot 2024-10-11 at 16 34 09](https://github.com/user-attachments/assets/5ec1255c-c901-4f18-8270-2c101e6f53e4)
+
+![Screenshot 2024-10-11 at 16 34 57](https://github.com/user-attachments/assets/7fb7c476-e2c1-4e8f-9267-36f556ccf169)
 
 
 ### Lecture 1 & 2 - introduction; numbers and logic 25/09/2024
