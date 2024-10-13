@@ -153,9 +153,6 @@ Instruction Execution: It executes the instructions provided by the control unit
 ![Screenshot 2024-10-13 at 15 37 00](https://github.com/user-attachments/assets/d26724f7-95bf-4d0c-a736-54ba9f9f50b8) 13
 
 
-
-![Screenshot 2024-10-11 at 16 28 17](https://github.com/user-attachments/assets/2792c163-e192-4500-9196-2432c96a1a2f) 14
-
 ![Screenshot 2024-10-13 at 15 45 44](https://github.com/user-attachments/assets/be13c4cc-c430-463a-af2a-a06a833acceb) 15
 
 ![Screenshot 2024-10-13 at 15 58 01](https://github.com/user-attachments/assets/9969a4c2-412e-4dae-b8a4-ea63dd551bfc)
