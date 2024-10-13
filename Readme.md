@@ -122,44 +122,42 @@ Role in CPU
 Data Processing: The ALU processes data from the registers and memory, performing the necessary calculations and logical operations.
 Instruction Execution: It executes the instructions provided by the control unit, which directs the ALU on which operations to perform.
 
-![Screenshot 2024-10-13 at 15 30 18](https://github.com/user-attachments/assets/2e4aa941-aa2b-4761-8c9d-979eba4cb206)
+![Screenshot 2024-10-13 at 15 30 18](https://github.com/user-attachments/assets/2e4aa941-aa2b-4761-8c9d-979eba4cb206) 1
 
-![Screenshot 2024-10-13 at 15 30 45](https://github.com/user-attachments/assets/fa49700f-c6a2-4446-964b-d15cc1b6d907)
+![Screenshot 2024-10-13 at 15 30 45](https://github.com/user-attachments/assets/fa49700f-c6a2-4446-964b-d15cc1b6d907) 2
 
-![Screenshot 2024-10-13 at 15 31 12](https://github.com/user-attachments/assets/7181a251-d351-4cb0-80c9-e7900d4afee3)
+![Screenshot 2024-10-13 at 15 31 12](https://github.com/user-attachments/assets/7181a251-d351-4cb0-80c9-e7900d4afee3) 3 
 
-![Screenshot 2024-10-13 at 15 31 35](https://github.com/user-attachments/assets/0875ca72-ff6b-4af0-8c64-692510010bf3)
-
-
-![Screenshot 2024-10-11 at 16 19 39](https://github.com/user-attachments/assets/3717c95e-9049-45e1-aab0-6bfef8772adf)
-
-![Screenshot 2024-10-13 at 15 34 31](https://github.com/user-attachments/assets/d03c704e-a448-4031-9669-c50ed305355a)
-
-![Screenshot 2024-10-13 at 15 34 46](https://github.com/user-attachments/assets/c920c1fd-77bf-4544-860d-83ddf66ec7ad)
-
-![Screenshot 2024-10-13 at 15 35 13](https://github.com/user-attachments/assets/31a25966-0c3c-45c5-9825-d60b7aecbaf7)
+![Screenshot 2024-10-13 at 15 31 35](https://github.com/user-attachments/assets/0875ca72-ff6b-4af0-8c64-692510010bf3) 4 
 
 
-![Screenshot 2024-10-13 at 15 35 40](https://github.com/user-attachments/assets/913bfb42-7114-4d43-9d27-51049cbd014a)
+![Screenshot 2024-10-11 at 16 19 39](https://github.com/user-attachments/assets/3717c95e-9049-45e1-aab0-6bfef8772adf) 5 
+
+![Screenshot 2024-10-13 at 15 34 31](https://github.com/user-attachments/assets/d03c704e-a448-4031-9669-c50ed305355a) 6
+
+![Screenshot 2024-10-13 at 15 34 46](https://github.com/user-attachments/assets/c920c1fd-77bf-4544-860d-83ddf66ec7ad) 7
+
+![Screenshot 2024-10-13 at 15 35 13](https://github.com/user-attachments/assets/31a25966-0c3c-45c5-9825-d60b7aecbaf7) 8 
 
 
-![Screenshot 2024-10-13 at 15 36 13](https://github.com/user-attachments/assets/a909a307-f862-48f8-8bb3-ba09500218f1)
+![Screenshot 2024-10-13 at 15 35 40](https://github.com/user-attachments/assets/913bfb42-7114-4d43-9d27-51049cbd014a) 9 
 
 
-![Screenshot 2024-10-13 at 15 36 39](https://github.com/user-attachments/assets/45fc18dc-6142-4f52-8be7-5322fa86f400)
+![Screenshot 2024-10-13 at 15 36 13](https://github.com/user-attachments/assets/a909a307-f862-48f8-8bb3-ba09500218f1) 10 
 
 
-![Screenshot 2024-10-13 at 15 37 00](https://github.com/user-attachments/assets/d26724f7-95bf-4d0c-a736-54ba9f9f50b8)
+![Screenshot 2024-10-13 at 15 36 39](https://github.com/user-attachments/assets/45fc18dc-6142-4f52-8be7-5322fa86f400) 11
+
+
+![Screenshot 2024-10-13 at 15 37 00](https://github.com/user-attachments/assets/d26724f7-95bf-4d0c-a736-54ba9f9f50b8) 12
 
 
 
-![Screenshot 2024-10-11 at 16 28 17](https://github.com/user-attachments/assets/2792c163-e192-4500-9196-2432c96a1a2f)
+![Screenshot 2024-10-11 at 16 28 17](https://github.com/user-attachments/assets/2792c163-e192-4500-9196-2432c96a1a2f) 13
 
-![Screenshot 2024-10-11 at 16 30 02](https://github.com/user-attachments/assets/324695c3-fc5b-46ff-9a9d-08d1f8d58fa3)
 
 ![Screenshot 2024-10-11 at 16 30 32](https://github.com/user-attachments/assets/db53d1d6-b3df-43f6-86f9-0a744be5ee4a)
 
-![Screenshot 2024-10-11 at 16 41 59](https://github.com/user-attachments/assets/2d08ddd5-132a-4c23-b664-3c6b77a2d780)
 
 ![Screenshot 2024-10-11 at 16 42 21](https://github.com/user-attachments/assets/f322a5db-ded9-4a12-a758-e1ddb3bee142)
 
