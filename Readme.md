@@ -76,8 +76,6 @@ Contains the executable code of the program##### Address Space Layout Randomizat
 
 ![Screenshot 2024-10-13 at 15 55 45](https://github.com/user-attachments/assets/533372dc-0774-4043-bbce-261325b9bdb6)
 
-![Screenshot 2024-10-11 at 16 30 32](https://github.com/user-attachments/assets/db53d1d6-b3df-43f6-86f9-0a744be5ee4a)
-
 ![Screenshot 2024-10-13 at 15 27 14](https://github.com/user-attachments/assets/94f36c1a-bb85-4ec4-8f64-643e6518d9bd)
 
 ![Screenshot 2024-10-13 at 15 28 13](https://github.com/user-attachments/assets/930b2d7a-106e-4ac7-bdc3-b47756961239)
