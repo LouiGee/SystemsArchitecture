@@ -122,9 +122,13 @@ Role in CPU
 Data Processing: The ALU processes data from the registers and memory, performing the necessary calculations and logical operations.
 Instruction Execution: It executes the instructions provided by the control unit, which directs the ALU on which operations to perform.
 
-![Screenshot 2024-10-10 at 20 01 12](https://github.com/user-attachments/assets/e9a20d3f-0331-4686-8d32-db21c48eadb4)
+![Screenshot 2024-10-13 at 15 30 18](https://github.com/user-attachments/assets/2e4aa941-aa2b-4761-8c9d-979eba4cb206)
 
-![Screenshot 2024-10-10 at 20 08 55](https://github.com/user-attachments/assets/f7f4628c-6277-4e2e-aa56-5e94d0b5c9f9)
+![Screenshot 2024-10-13 at 15 30 45](https://github.com/user-attachments/assets/fa49700f-c6a2-4446-964b-d15cc1b6d907)
+
+![Screenshot 2024-10-13 at 15 31 12](https://github.com/user-attachments/assets/7181a251-d351-4cb0-80c9-e7900d4afee3)
+
+![Screenshot 2024-10-13 at 15 31 35](https://github.com/user-attachments/assets/0875ca72-ff6b-4af0-8c64-692510010bf3)
 
 ![Screenshot 2024-10-10 at 20 09 22](https://github.com/user-attachments/assets/6225d257-e430-4125-b70a-92c0fbbf8387)
 
