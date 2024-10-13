@@ -158,7 +158,7 @@ Instruction Execution: It executes the instructions provided by the control unit
 
 ![Screenshot 2024-10-13 at 15 45 44](https://github.com/user-attachments/assets/be13c4cc-c430-463a-af2a-a06a833acceb) 15
 
-![Screenshot 2024-10-13 at 15 45 59](https://github.com/user-attachments/assets/76b93412-e552-4fc1-aa46-94c90b339df0) 16
+ ![Screenshot 2024-10-13 at 15 47 36](https://github.com/user-attachments/assets/c159255f-163d-4a94-8462-841d5e2345db) 16
 
 
 
@@ -170,15 +170,15 @@ Instruction Execution: It executes the instructions provided by the control unit
 
 ![Screenshot 2024-10-11 at 19 37 44](https://github.com/user-attachments/assets/e85e71f3-e6b5-4d14-8b70-3cd92b14d2f9) 20 
 
-![Screenshot 2024-10-11 at 19 56 26](https://github.com/user-attachments/assets/0a6ad96a-a250-43e5-a5ee-2328e5f08456)
+![Screenshot 2024-10-11 at 19 56 26](https://github.com/user-attachments/assets/0a6ad96a-a250-43e5-a5ee-2328e5f08456) 21
 
-![Screenshot 2024-10-11 at 20 11 01](https://github.com/user-attachments/assets/ebf50995-8b86-484a-bb7f-d0f41bc84e4c)
+![Screenshot 2024-10-11 at 20 11 01](https://github.com/user-attachments/assets/ebf50995-8b86-484a-bb7f-d0f41bc84e4c) 22
 
-![Screenshot 2024-10-11 at 20 11 28](https://github.com/user-attachments/assets/6c12a4ce-96c4-40db-9e69-8ca99325e2d7)
+![Screenshot 2024-10-11 at 20 11 28](https://github.com/user-attachments/assets/6c12a4ce-96c4-40db-9e69-8ca99325e2d7) 23 
 
-![Screenshot 2024-10-11 at 20 16 51](https://github.com/user-attachments/assets/a664b23a-2458-48e5-b36a-6a381f1e0e27)
+![Screenshot 2024-10-11 at 20 16 51](https://github.com/user-attachments/assets/a664b23a-2458-48e5-b36a-6a381f1e0e27) 24 
 
-![Screenshot 2024-10-13 at 12 32 48](https://github.com/user-attachments/assets/9452f33a-f0b0-43ff-ad1c-6329fce3c75f)
+![Screenshot 2024-10-13 at 12 32 48](https://github.com/user-attachments/assets/9452f33a-f0b0-43ff-ad1c-6329fce3c75f) 25
 
 The offset inside a page refers to the specific location within a page where a particular piece of data can be found. In a virtual memory system, both virtual and physical addresses are divided into two parts: the page number and the offset.
 
