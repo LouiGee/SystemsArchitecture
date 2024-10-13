@@ -6,15 +6,15 @@
 ## Term Coursework Structure 
 
 ##### Advanced Java A1 - 01/11/2024 
-#### Networks Computer-based test (app. 1 hour) (20%) Deadline - 01/11/2024
-#### System Architecture Quiz 1 - Deadline 01/11/2024
-#### Machine Learning Assessment 1 - Deadline 18/11/2024
-#### Advanced Java A2 - 25/11/2024
-#### System Architecture Quiz 2 - Deadline 29/11/2024
-#### System Architecture UNIX Assessment - Deadline 09/12/2024
-#### System ArchitectureQuiz 3 - Deadline 13/12/2024
-#### Networks Problem solving exercises (30%) Deadline - 13/12/2024
-#### Machine Learning Assessment 2 - Deadline 13/01/2024
+##### Networks Computer-based test (app. 1 hour) (20%) Deadline - 01/11/2024
+##### System Architecture Quiz 1 - Deadline 01/11/2024
+##### Machine Learning Assessment 1 - Deadline 18/11/2024
+##### Advanced Java A2 - 25/11/2024
+##### System Architecture Quiz 2 - Deadline 29/11/2024
+##### System Architecture UNIX Assessment - Deadline 09/12/2024
+##### System ArchitectureQuiz 3 - Deadline 13/12/2024
+##### Networks Problem solving exercises (30%) Deadline - 13/12/2024
+##### Machine Learning Assessment 2 - Deadline 13/01/2024
 
 
 ## Target hours revision 
@@ -22,31 +22,32 @@
 **Current**: 15\
 **Hours per day needed**: ?
 
-### glossary 
+### Glossary 
 
-RISC architecture - Reduced Instruction Set Computer. Utilises a small, optimised set of instructions rather than a more complex specialised set. ARM 
-CISC architecture - Complex Instruction Set Computer. Aims to minimise number of instructions per program. Complex Instructions, Variable length instructions, Rich adressing modes, microprogramming. x86.
-ALU - Arithmetic logic unit. Located in CPU. Arithmetic, logical, bitwise and comparison operations.
-PC/ IP - Program counter/ Instruction pointer. Located in CPU. Keeps track of memeory adress of the next program to be executed.
-MMU - handles virtual memory and caching operations. Address translation (translateslates virtual memory into physical memeory). Enforces access control policies to memory so programs can only access memory asigned to them.
-Register - Inside CPU. Small memory( few bytes/kilobytes), fast. Example - used by ALU to fetch operands(+,=,- etc) 
-Cache - Between the CPU and RAM. bigger memeory( kB/mB's), slow than register but faster than RAM. Example - Frequently used instructions/ data)
-RAM  - Located on motherboard near the CPU. instructions transfered via memory bus. Larger memory than caches and registers but slower. But faster than SSD/HD storage.
-Page offset - 
-Pages
-Page frames
-Physcial memory
-Virtual memory 
-Numerically 
-Heap
-Kernal Space 
-Bytes in a page 
-Stack
-Mmap segment
-BSS segemnt 
-Data segment 
-Text Segment
-Address Space Layout Randomization (ASLR)
+##### RISC architecture - Reduced Instruction Set Computer. Utilises a small, optimised set of instructions rather than a more complex specialised set. ARM 
+##### CISC architecture - Complex Instruction Set Computer. Aims to minimise number of instructions per program. Complex Instructions, Variable length instructions, Rich adressing modes, microprogramming. x86.
+##### ALU - Arithmetic logic unit. Located in CPU. Arithmetic, logical, bitwise and comparison operations.
+##### PC/ IP - Program counter/ Instruction pointer. Located in CPU. Keeps track of memeory adress of the next program to be executed.
+##### MMU - handles virtual memory and caching operations. Address translation (translateslates virtual memory into physical memeory). Enforces access control policies to memory so programs can only access memory asigned to them.
+##### Register - Inside CPU. Small memory( few bytes/kilobytes), fast. Example - used by ALU to fetch operands(+,=,- etc) 
+##### Cache - Between the CPU and RAM. bigger memeory( kB/mB's), slow than register but faster than RAM. Example - Frequently used instructions/ data)
+##### RAM  - Located on motherboard near the CPU. instructions transfered via memory bus. Larger memory than caches and registers but slower. But faster than SSD/HD storage.
+##### Page offset - 
+The page offset is the part of a virtual or physical address that specifies the exact location within a page
+##### Pages - Pages are fixed-size memory blocks used to organise data.
+##### Page frames
+##### Physcial memory
+##### Virtual memory 
+##### Numerically 
+##### Heap
+##### Kernal Space 
+##### Bytes in a page 
+##### Stack
+##### Mmap segment
+##### BSS segemnt 
+##### Data segment 
+##### Text Segment
+##### Address Space Layout Randomization (ASLR)
 
 
 
