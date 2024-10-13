@@ -158,10 +158,6 @@ Instruction Execution: It executes the instructions provided by the control unit
 
 ![Screenshot 2024-10-13 at 15 45 44](https://github.com/user-attachments/assets/be13c4cc-c430-463a-af2a-a06a833acceb) 15
 
- ![Screenshot 2024-10-13 at 15 47 36](https://github.com/user-attachments/assets/c159255f-163d-4a94-8462-841d5e2345db) 16
-
-
-
 ![Screenshot 2024-10-11 at 16 34 09](https://github.com/user-attachments/assets/5ec1255c-c901-4f18-8270-2c101e6f53e4) 17
 
 ![Screenshot 2024-10-11 at 16 34 57](https://github.com/user-attachments/assets/7fb7c476-e2c1-4e8f-9267-36f556ccf169) 18 
@@ -172,7 +168,7 @@ Instruction Execution: It executes the instructions provided by the control unit
 
 ![Screenshot 2024-10-11 at 19 56 26](https://github.com/user-attachments/assets/0a6ad96a-a250-43e5-a5ee-2328e5f08456) 21
 
-![Screenshot 2024-10-11 at 20 11 01](https://github.com/user-attachments/assets/ebf50995-8b86-484a-bb7f-d0f41bc84e4c) 22
+![Screenshot 2024-10-13 at 15 49 39](https://github.com/user-attachments/assets/7d6e7a79-abc4-48e7-8358-077ab0988f9f) 22
 
 ![Screenshot 2024-10-11 at 20 11 28](https://github.com/user-attachments/assets/6c12a4ce-96c4-40db-9e69-8ca99325e2d7) 23 
 
