@@ -76,23 +76,20 @@ Contains the executable code of the program##### Address Space Layout Randomizat
 
 ![Screenshot 2024-10-10 at 19 51 24](https://github.com/user-attachments/assets/95c5092e-c3a8-41fc-be73-2d6186942405)
 
-Key Characteristics of RISC:
+##### Key Characteristics of RISC:
 Simplified Instructions: Each instruction is designed to execute in a single clock cycle, which simplifies the processor design and can lead to higher performance.
 Load/Store Architecture: Data processing operations are performed only on registers, with separate instructions for loading data from memory into registers and storing data back to memory.
 Fixed Instruction Length: Instructions are typically of a uniform length, which simplifies instruction decoding and pipelining.
 Large Number of Registers: RISC architectures often have a large number of general-purpose registers to reduce the frequency of memory access.
 
-Key Characteristics of CISC:
+##### Key Characteristics of CISC:
 Complex Instructions: CISC processors have a large number of instructions, some of which can perform multi-step operations or complex tasks within a single instruction.
 Variable Instruction Length: Instructions can vary in length, which can make decoding more complex but allows for more flexible and powerful instructions.
 Fewer Registers: Compared to RISC architectures, CISC processors typically have fewer general-purpose registers.
 Microcode: Many CISC instructions are implemented using microcode, which translates complex instructions into simpler, lower-level operations within the CPU.
 
-![Screenshot 2024-10-10 at 19 53 38](https://github.com/user-attachments/assets/48aff00a-2f26-498c-8497-233b13387762)
 
 ![Screenshot 2024-10-10 at 19 57 04](https://github.com/user-attachments/assets/7144c23d-ec33-42b9-8800-2bb5aee21f45)
-
-
 
 ![Screenshot 2024-10-10 at 19 58 08](https://github.com/user-attachments/assets/f63714b4-03bb-4df7-9e23-e77e59feed70)
 
