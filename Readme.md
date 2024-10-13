@@ -291,7 +291,7 @@ This makes it more difficult for attackers to predict the location of specific f
 
 If we compile an integer addition ( x + y ) into an add instruction followed by a decrement, we will always get the correct answer in OCaml. The decrement operation adjusts the result to match the OCaml integer representation, ensuring that the LSB is set to 1
 
-![Screenshot 2024-10-13 at 14 17 13](https://github.com/user-attachments/assets/373610e2-1a8f-40fa-8cfb-e4de6cd75df9)
+![Screenshot 2024-10-11 at 16 30 32](https://github.com/user-attachments/assets/db53d1d6-b3df-43f6-86f9-0a744be5ee4a)
 
 ![Screenshot 2024-10-13 at 14 15 50](https://github.com/user-attachments/assets/92fa4225-fcf8-41ea-829d-de0d24658ead)
 
