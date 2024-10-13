@@ -173,6 +173,8 @@ Instruction Execution: It executes the instructions provided by the control unit
 
 ![Screenshot 2024-10-11 at 20 11 28](https://github.com/user-attachments/assets/6c12a4ce-96c4-40db-9e69-8ca99325e2d7) 23 
 
+![Screenshot 2024-10-11 at 16 30 32](https://github.com/user-attachments/assets/db53d1d6-b3df-43f6-86f9-0a744be5ee4a)
+
 ![Screenshot 2024-10-13 at 12 32 48](https://github.com/user-attachments/assets/9452f33a-f0b0-43ff-ad1c-6329fce3c75f) 25
 
 The offset inside a page refers to the specific location within a page where a particular piece of data can be found. In a virtual memory system, both virtual and physical addresses are divided into two parts: the page number and the offset.
