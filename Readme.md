@@ -88,14 +88,11 @@ Variable Instruction Length: Instructions can vary in length, which can make dec
 Fewer Registers: Compared to RISC architectures, CISC processors typically have fewer general-purpose registers.
 Microcode: Many CISC instructions are implemented using microcode, which translates complex instructions into simpler, lower-level operations within the CPU.
 
-
-![Screenshot 2024-10-10 at 19 57 04](https://github.com/user-attachments/assets/7144c23d-ec33-42b9-8800-2bb5aee21f45)
-
 ![Screenshot 2024-10-10 at 19 58 08](https://github.com/user-attachments/assets/f63714b4-03bb-4df7-9e23-e77e59feed70)
 
 ![Screenshot 2024-10-10 at 19 58 24](https://github.com/user-attachments/assets/4ce5abe6-5f4b-4a17-9b1e-711e1301e906)
 
-The Arithmetic Logic Unit (ALU) is a critical component of the CPU responsible for performing arithmetic and logical operations. Here are its main functions:
+##### Arithmetic Logic Unit (ALU) is a critical component of the CPU responsible for performing arithmetic and logical operations. Here are its main functions:
 
 Arithmetic Operations
 Addition: Adding two numbers.
