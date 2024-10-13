@@ -58,7 +58,9 @@ The virtual address space is much larger than the physical memory (RAM).
 ##### Numerically 
 To solve something numerically means through approximation/ iteration
 ##### Heap
-The heap is used for allocating memory at runtime, as opposed to compile-time. Unlike the stack, which has a Last-In-First-Out (LIFO) structure, the heap allows for more flexible memory allocation patterns##### Kernal Space 
+The heap is used for allocating memory at runtime, as opposed to compile-time. Unlike the stack, which has a Last-In-First-Out (LIFO) structure, the heap allows for more flexible memory allocation patterns
+##### Kernal Space 
+Kernel space is a reserved area of memory where the core of the operating system (the kernel) executes and provides its essential services.
 ##### Stack
 A stack is a data structure that follows the Last-In-First-Out (LIFO) principle. This means that the last element added to the stack is the first one to be removed. Used for function call management, including local variables and return addresses.
 ##### Mmap segment
