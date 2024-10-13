@@ -22,6 +22,33 @@
 **Current**: 15\
 **Hours per day needed**: ?
 
+### glossary 
+
+RISC architecture - Reduced Instruction Set Computer. Utilises a small, optimised set of instructions rather than a more complex specialised set. ARM 
+CISC architecture - Complex Instruction Set Computer. Aims to minimise number of instructions per program. Complex Instructions, Variable length instructions, Rich adressing modes, microprogramming. x86.
+ALU - Arithmetic logic unit. Located in CPU. Arithmetic, logical, bitwise and comparison operations.
+PC/ IP - Program counter/ Instruction pointer. Located in CPU. Keeps track of memeory adress of the next program to be executed.
+MMU - handles virtual memory and caching operations. Address translation (translateslates virtual memory into physical memeory). Enforces access control policies to memory so programs can only access memory asigned to them.
+Register - Inside CPU. Small memory( few bytes/kilobytes), fast. Example - used by ALU to fetch operands(+,=,- etc) 
+Cache - Between the CPU and RAM. bigger memeory( kB/mB's), slow than register but faster than RAM. Example - Frequently used instructions/ data)
+RAM  - Located on motherboard near the CPU. instructions transfered via memory bus. Larger memory than caches and registers but slower. But faster than SSD/HD storage.
+Page offset - 
+Pages
+Page frames
+Physcial memory
+Virtual memory 
+Numerically 
+Heap
+Kernal Space 
+Bytes in a page 
+Stack
+Mmap segment
+BSS segemnt 
+Data segment 
+Text Segment
+Address Space Layout Randomization (ASLR)
+
+
 
 ### Practice Test 10/10/2024
 
@@ -234,10 +261,15 @@ This makes it more difficult for attackers to predict the location of specific f
 
 If we compile an integer addition ( x + y ) into an add instruction followed by a decrement, we will always get the correct answer in OCaml. The decrement operation adjusts the result to match the OCaml integer representation, ensuring that the LSB is set to 1
 
-
+![Screenshot 2024-10-13 at 14 17 13](https://github.com/user-attachments/assets/373610e2-1a8f-40fa-8cfb-e4de6cd75df9)
 
 ![Screenshot 2024-10-13 at 14 15 50](https://github.com/user-attachments/assets/92fa4225-fcf8-41ea-829d-de0d24658ead)
 
+![Screenshot 2024-10-13 at 14 21 38](https://github.com/user-attachments/assets/702a5e75-eb37-4270-aa1e-8d2f33c5e399)
+
+![Screenshot 2024-10-13 at 14 22 09](https://github.com/user-attachments/assets/0391b85a-c905-4bb6-9310-1067f557b11d)
+
+![Screenshot 2024-10-13 at 14 24 16](https://github.com/user-attachments/assets/59818cb1-6ffd-4088-8179-ad9f5095f33b)
 
 
 ### Lecture 1 & 2 - introduction; numbers and logic 25/09/2024
