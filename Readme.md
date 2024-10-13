@@ -76,6 +76,11 @@ Contains the executable code of the program##### Address Space Layout Randomizat
 
 ![Screenshot 2024-10-10 at 19 51 24](https://github.com/user-attachments/assets/95c5092e-c3a8-41fc-be73-2d6186942405)
 
+![Screenshot 2024-10-13 at 15 27 14](https://github.com/user-attachments/assets/94f36c1a-bb85-4ec4-8f64-643e6518d9bd)
+
+![Screenshot 2024-10-13 at 15 28 13](https://github.com/user-attachments/assets/930b2d7a-106e-4ac7-bdc3-b47756961239)
+
+
 ##### Key Characteristics of RISC:
 Simplified Instructions: Each instruction is designed to execute in a single clock cycle, which simplifies the processor design and can lead to higher performance.
 Load/Store Architecture: Data processing operations are performed only on registers, with separate instructions for loading data from memory into registers and storing data back to memory.
@@ -88,9 +93,10 @@ Variable Instruction Length: Instructions can vary in length, which can make dec
 Fewer Registers: Compared to RISC architectures, CISC processors typically have fewer general-purpose registers.
 Microcode: Many CISC instructions are implemented using microcode, which translates complex instructions into simpler, lower-level operations within the CPU.
 
-![Screenshot 2024-10-10 at 19 58 08](https://github.com/user-attachments/assets/f63714b4-03bb-4df7-9e23-e77e59feed70)
+![Screenshot 2024-10-13 at 15 28 59](https://github.com/user-attachments/assets/78ded9ab-1fff-4742-a4fd-6df0364c0c4e)
 
-![Screenshot 2024-10-10 at 19 58 24](https://github.com/user-attachments/assets/4ce5abe6-5f4b-4a17-9b1e-711e1301e906)
+![Screenshot 2024-10-13 at 15 29 08](https://github.com/user-attachments/assets/bd568555-bfb2-4481-90be-6e78cf1c2b0d)
+
 
 ##### Arithmetic Logic Unit (ALU) is a critical component of the CPU responsible for performing arithmetic and logical operations. Here are its main functions:
 
