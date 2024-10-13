@@ -156,19 +156,19 @@ Instruction Execution: It executes the instructions provided by the control unit
 
 ![Screenshot 2024-10-11 at 16 28 17](https://github.com/user-attachments/assets/2792c163-e192-4500-9196-2432c96a1a2f) 14
 
+![Screenshot 2024-10-13 at 15 45 44](https://github.com/user-attachments/assets/be13c4cc-c430-463a-af2a-a06a833acceb) 15
+
+![Screenshot 2024-10-13 at 15 45 59](https://github.com/user-attachments/assets/76b93412-e552-4fc1-aa46-94c90b339df0) 16
 
 
-![Screenshot 2024-10-11 at 16 42 21](https://github.com/user-attachments/assets/f322a5db-ded9-4a12-a758-e1ddb3bee142)
 
-![Screenshot 2024-10-11 at 16 42 37](https://github.com/user-attachments/assets/0123001d-78f6-42e2-8c48-99325b4778aa)
+![Screenshot 2024-10-11 at 16 34 09](https://github.com/user-attachments/assets/5ec1255c-c901-4f18-8270-2c101e6f53e4) 17
 
-![Screenshot 2024-10-11 at 16 34 09](https://github.com/user-attachments/assets/5ec1255c-c901-4f18-8270-2c101e6f53e4)
+![Screenshot 2024-10-11 at 16 34 57](https://github.com/user-attachments/assets/7fb7c476-e2c1-4e8f-9267-36f556ccf169) 18 
 
-![Screenshot 2024-10-11 at 16 34 57](https://github.com/user-attachments/assets/7fb7c476-e2c1-4e8f-9267-36f556ccf169)
+![Screenshot 2024-10-11 at 19 27 00](https://github.com/user-attachments/assets/823bfaee-f3a3-4a9f-99c3-2bfd5458a09b) 19
 
-![Screenshot 2024-10-11 at 19 27 00](https://github.com/user-attachments/assets/823bfaee-f3a3-4a9f-99c3-2bfd5458a09b)
-
-![Screenshot 2024-10-11 at 19 37 44](https://github.com/user-attachments/assets/e85e71f3-e6b5-4d14-8b70-3cd92b14d2f9)
+![Screenshot 2024-10-11 at 19 37 44](https://github.com/user-attachments/assets/e85e71f3-e6b5-4d14-8b70-3cd92b14d2f9) 20 
 
 ![Screenshot 2024-10-11 at 19 56 26](https://github.com/user-attachments/assets/0a6ad96a-a250-43e5-a5ee-2328e5f08456)
 
