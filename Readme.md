@@ -25,11 +25,11 @@
 ### Glossary 
 
 ##### RISC architecture 
-Reduced Instruction Set Computer. Utilises a small, optimised set of instructions rather than a more complex specialised set. ARM 
+Reduced Instruction Set Computer. Utilises a small, optimised set of instructions rather than a more complex specialised set. Example - ARM 
 ##### CISC architecture 
-Complex Instruction Set Computer. Aims to minimise number of instructions per program. Complex Instructions, Variable length instructions, Rich adressing modes, microprogramming. x86.
+Complex Instruction Set Computer. Aims to minimise number of instructions per program. Complex Instructions, Variable length instructions, Rich adressing modes, microprogramming. Example - x86.
 ##### ALU 
-Arithmetic logic unit. Located in CPU. Arithmetic, logical, bitwise and comparison operations.
+Arithmetic logic unit. Located in CPU. Arithmetic, logical, bitwise and comparison operations complted here.
 ##### PC/ IP 
 Program counter/ Instruction pointer. Located in CPU. Keeps track of memeory adress of the next program to be executed.
 ##### MMU 
