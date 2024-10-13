@@ -95,9 +95,52 @@ Instruction Execution: It executes the instructions provided by the control unit
 
 ![Screenshot 2024-10-11 at 16 30 32](https://github.com/user-attachments/assets/db53d1d6-b3df-43f6-86f9-0a744be5ee4a)
 
+![Screenshot 2024-10-11 at 16 41 59](https://github.com/user-attachments/assets/2d08ddd5-132a-4c23-b664-3c6b77a2d780)
+
+![Screenshot 2024-10-11 at 16 42 21](https://github.com/user-attachments/assets/f322a5db-ded9-4a12-a758-e1ddb3bee142)
+
+![Screenshot 2024-10-11 at 16 42 37](https://github.com/user-attachments/assets/0123001d-78f6-42e2-8c48-99325b4778aa)
+
 ![Screenshot 2024-10-11 at 16 34 09](https://github.com/user-attachments/assets/5ec1255c-c901-4f18-8270-2c101e6f53e4)
 
 ![Screenshot 2024-10-11 at 16 34 57](https://github.com/user-attachments/assets/7fb7c476-e2c1-4e8f-9267-36f556ccf169)
+
+![Screenshot 2024-10-11 at 19 27 00](https://github.com/user-attachments/assets/823bfaee-f3a3-4a9f-99c3-2bfd5458a09b)
+
+![Screenshot 2024-10-11 at 19 37 44](https://github.com/user-attachments/assets/e85e71f3-e6b5-4d14-8b70-3cd92b14d2f9)
+
+![Screenshot 2024-10-11 at 19 55 08](https://github.com/user-attachments/assets/270d69de-a1e1-49cf-a292-119083092a54)
+
+![Screenshot 2024-10-11 at 19 56 26](https://github.com/user-attachments/assets/0a6ad96a-a250-43e5-a5ee-2328e5f08456)
+
+![Screenshot 2024-10-11 at 20 11 01](https://github.com/user-attachments/assets/ebf50995-8b86-484a-bb7f-d0f41bc84e4c)
+
+![Screenshot 2024-10-11 at 20 11 28](https://github.com/user-attachments/assets/6c12a4ce-96c4-40db-9e69-8ca99325e2d7)
+
+![Screenshot 2024-10-11 at 20 16 51](https://github.com/user-attachments/assets/a664b23a-2458-48e5-b36a-6a381f1e0e27)
+
+A virtual address in a computer is an address used by a program to access memory. It is part of a virtual memory system that allows an operating system to use hardware and software to manage memory more efficiently. Here’s a breakdown of how it works:
+
+Key Concepts:
+Virtual Memory:
+Virtual memory allows a computer to compensate for physical memory shortages by temporarily transferring data from random access memory (RAM) to disk storage.
+It creates an illusion for users of a very large (main) memory.
+Virtual Address Space:
+Each process has its own virtual address space, which is a range of addresses that the process can use.
+This space is divided into pages, which are fixed-size blocks of memory.
+Translation to Physical Addresses:
+The virtual address is translated to a physical address by the Memory Management Unit (MMU).
+This translation is done using a page table, which maps virtual addresses to physical addresses.
+Benefits of Virtual Addresses:
+Isolation:
+Each process operates in its own virtual address space, which prevents processes from interfering with each other’s memory.
+Security:
+Virtual memory provides a layer of security by isolating the memory of different processes.
+Efficient Memory Use:
+It allows the system to use physical memory more efficiently by swapping inactive pages to disk and keeping active pages in RAM.
+
+
+
 
 
 ### Lecture 1 & 2 - introduction; numbers and logic 25/09/2024
