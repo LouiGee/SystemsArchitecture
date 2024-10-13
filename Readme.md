@@ -19,7 +19,7 @@
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 14\
+**Current**: 15\
 **Hours per day needed**: ?
 
 
@@ -117,7 +117,24 @@ Instruction Execution: It executes the instructions provided by the control unit
 
 ![Screenshot 2024-10-11 at 20 16 51](https://github.com/user-attachments/assets/a664b23a-2458-48e5-b36a-6a381f1e0e27)
 
+![Screenshot 2024-10-13 at 12 32 48](https://github.com/user-attachments/assets/9452f33a-f0b0-43ff-ad1c-6329fce3c75f)
+
+The offset inside a page refers to the specific location within a page where a particular piece of data can be found. In a virtual memory system, both virtual and physical addresses are divided into two parts: the page number and the offset.
+
 A virtual address in a computer is an address used by a program to access memory. It is part of a virtual memory system that allows an operating system to use hardware and software to manage memory more efficiently. Here’s a breakdown of how it works:
+
+Physical Memory:
+Physical memory (RAM) is divided into small, fixed-size blocks called page frames.
+
+Virtual Memory:
+Virtual memory is divided into pages, which are also fixed-size blocks.
+
+A page table is a data structure used in virtual memory systems to map virtual addresses to physical addresses. 
+It plays a crucial role in translating the virtual addresses used by a program into the physical addresses used by the computer’s hardware.
+
+General Formula:
+For a page size of ( 2^b ) bytes, the number of bits required for the offset is ( b ).
+
 
 Key Concepts:
 Virtual Memory:
@@ -137,7 +154,89 @@ Virtual memory provides a layer of security by isolating the memory of different
 Efficient Memory Use:
 It allows the system to use physical memory more efficiently by swapping inactive pages to disk and keeping active pages in RAM.
 
+Solving numerically means finding an approximate solution to a mathematical problem using numerical methods rather than exact algebraic expressions. This approach is often used when an equation is too complex to solve analytically or does not have a closed-form solution. Here are some key points about numerical solutions:
 
+Key Concepts:
+Approximation:
+Numerical methods provide approximate solutions that are often very close to the exact solution.
+The accuracy of the solution depends on the method used and the computational resources available.
+Iterative Methods:
+Many numerical methods are iterative, meaning they start with an initial guess and refine it through repeated calculations.
+Examples include the Newton-Raphson method, bisection method, and fixed-point iteration.
+Computational Tools:
+Numerical solutions are typically found using computers and specialized software or programming languages like Python, MATLAB, or R.
+These tools can handle complex calculations and large datasets efficiently.
+
+![Screenshot 2024-10-13 at 13 24 07](https://github.com/user-attachments/assets/1dd22b76-cc55-409d-bfe0-1ee19da400de)
+
+![Screenshot 2024-10-13 at 13 26 21](https://github.com/user-attachments/assets/981e78b4-2c8f-49bd-b534-062d26ee89f1)
+
+This statement is true due to the Pigeonhole Principle. Here’s why:
+
+Suppose there are ( n ) objects in the heap.
+Each object points to at least one other object, so the number of objects each object can point to ranges from 1 to ( n-1 ).
+This gives us ( n ) objects and ( n-1 ) possible values for the number of objects each object can point to. According to the Pigeonhole Principle, if you have more objects (pigeons) than possible values (pigeonholes), at least two objects must point to the same number of other objects.
+
+Therefore, in this heap, there must be at least two objects that point to the same number of other objects.
+
+
+![Screenshot 2024-10-13 at 13 28 54](https://github.com/user-attachments/assets/4971ad5c-6ec3-4b2f-9c4d-d0ccdd2e2c22)
+
+While using multiple threads can improve the performance and responsiveness of a program, it doesn’t necessarily increase its reliability. In fact, multithreading can introduce complexity and potential issues such as race conditions, deadlocks, and synchronization problems.
+
+![Screenshot 2024-10-13 at 13 30 31](https://github.com/user-attachments/assets/effae050-ea21-4f90-ba40-27c919698f22)
+
+![Screenshot 2024-10-13 at 13 31 58](https://github.com/user-attachments/assets/8b888627-321a-4280-840e-43101973be25)
+
+![Screenshot 2024-10-13 at 13 32 38](https://github.com/user-attachments/assets/4dba1737-781b-43b4-ab4b-cbcb68a9562e)
+
+![Screenshot 2024-10-13 at 13 40 20](https://github.com/user-attachments/assets/7b9da765-02fb-4c24-a145-a842e97e2e89)
+
+Yes, that’s correct! The virtual memory of a process is organized into several segments, each serving a specific purpose. Here’s a brief overview of each segment and the concept of address space randomization:
+
+Segments in Virtual Memory:
+Kernel Space:
+Reserved for the operating system kernel and its data structures.
+Not accessible by user processes.
+Stack:
+Used for function call management, including local variables, return addresses, and control flow.
+Grows downward in memory.
+The starting position is usually randomized for security reasons (stack randomization).
+Mmap Segment:
+Used for memory-mapped files and shared memory.
+Allows files or devices to be mapped into the process’s address space.
+The starting position is usually randomized (mmap randomization).
+Heap:
+Used for dynamic memory allocation (e.g., via malloc in C).
+Grows upward in memory.
+The starting position is usually randomized (heap randomization).
+BSS Segment:
+Stands for “Block Started by Symbol.”
+Contains uninitialized global and static variables.
+Initialized to zero by the operating system.
+Data Segment:
+Contains initialized global and static variables.
+Values are set at compile time.
+Text Segment:
+Contains the executable code of the program.
+Typically read-only to prevent accidental modification.
+Address Space Layout Randomization (ASLR):
+ASLR is a security technique used to randomize the starting addresses of key memory segments (stack, mmap, heap) each time a program is executed.
+This makes it more difficult for attackers to predict the location of specific functions or data structures, thereby enhancing security against certain types of attacks, such as buffer overflows.
+
+![Screenshot 2024-10-13 at 13 42 21](https://github.com/user-attachments/assets/9b1faac7-7eb9-4a1e-9988-456e28528518)
+
+![Screenshot 2024-10-13 at 13 50 52](https://github.com/user-attachments/assets/30f49c2a-9f7a-45cf-a4e9-54eb32e2ec52)
+
+![Screenshot 2024-10-13 at 13 50 17](https://github.com/user-attachments/assets/725564b9-76fc-4e6b-8fe4-76e02f021937)
+
+![Screenshot 2024-10-13 at 13 58 22](https://github.com/user-attachments/assets/1222cc7c-4819-4599-9826-e6ff0d6b058e)
+
+If we compile an integer addition ( x + y ) into an add instruction followed by a decrement, we will always get the correct answer in OCaml. The decrement operation adjusts the result to match the OCaml integer representation, ensuring that the LSB is set to 1
+
+
+
+![Screenshot 2024-10-13 at 14 15 50](https://github.com/user-attachments/assets/92fa4225-fcf8-41ea-829d-de0d24658ead)
 
 
 
