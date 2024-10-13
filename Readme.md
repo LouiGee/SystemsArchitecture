@@ -24,30 +24,51 @@
 
 ### Glossary 
 
-##### RISC architecture - Reduced Instruction Set Computer. Utilises a small, optimised set of instructions rather than a more complex specialised set. ARM 
-##### CISC architecture - Complex Instruction Set Computer. Aims to minimise number of instructions per program. Complex Instructions, Variable length instructions, Rich adressing modes, microprogramming. x86.
-##### ALU - Arithmetic logic unit. Located in CPU. Arithmetic, logical, bitwise and comparison operations.
-##### PC/ IP - Program counter/ Instruction pointer. Located in CPU. Keeps track of memeory adress of the next program to be executed.
-##### MMU - handles virtual memory and caching operations. Address translation (translateslates virtual memory into physical memeory). Enforces access control policies to memory so programs can only access memory asigned to them.
-##### Register - Inside CPU. Small memory( few bytes/kilobytes), fast. Example - used by ALU to fetch operands(+,=,- etc) 
-##### Cache - Between the CPU and RAM. bigger memeory( kB/mB's), slow than register but faster than RAM. Example - Frequently used instructions/ data)
-##### RAM  - Located on motherboard near the CPU. instructions transfered via memory bus. Larger memory than caches and registers but slower. But faster than SSD/HD storage.
-##### Page offset - 
-The page offset is the part of a virtual or physical address that specifies the exact location within a page
-##### Pages - Pages are fixed-size memory blocks used to organise data.
-##### Page frames
-##### Physcial memory
-##### Virtual memory 
-##### Numerically 
-##### Heap
-##### Kernal Space 
+##### RISC architecture 
+Reduced Instruction Set Computer. Utilises a small, optimised set of instructions rather than a more complex specialised set. ARM 
+##### CISC architecture 
+Complex Instruction Set Computer. Aims to minimise number of instructions per program. Complex Instructions, Variable length instructions, Rich adressing modes, microprogramming. x86.
+##### ALU 
+Arithmetic logic unit. Located in CPU. Arithmetic, logical, bitwise and comparison operations.
+##### PC/ IP 
+Program counter/ Instruction pointer. Located in CPU. Keeps track of memeory adress of the next program to be executed.
+##### MMU 
+handles virtual memory and caching operations. Address translation (translateslates virtual memory into physical memeory). Enforces access control policies to memory so programs can only access memory asigned to them.
+##### Register 
+Inside CPU. Small memory( few bytes/kilobytes), fast. Example - used by ALU to fetch operands(+,=,- etc) 
+##### Cache 
+Between the CPU and RAM. bigger memeory( kB/mB's), slow than register but faster than RAM. Example - Frequently used instructions/ data)
+##### RAM  
+Located on motherboard near the CPU. instructions transfered via memory bus. Larger memory than caches and registers but slower. But faster than SSD/HD storage.
+##### Pages (Virtual memory)
+Pages are fixed-size memory blocks used to organise data.
 ##### Bytes in a page 
+4 KB (4096 bytes): This is a standard page size used in many systems.
+##### Page Offset  
+The page offset is the part of a virtual or physical address that specifies the exact location within a page. The page offset is crucial for efficient memory management, allowing the system to quickly locate specific data within a page
+##### Page Frames (Physical memory)
+Page frames are fixed-size blocks of physical memory in a computer system. They are a fundamental concept in the implementation of virtual memory.
+##### Page Table
+A page table is a data structure used in virtual memory systems to map virtual addresses to physical addresses. It plays a crucial role in translating the virtual addresses used by a program into the physical addresses used by the computer’s hardware.
+##### Physcial memory
+Physical memory (RAM) is divided into small, fixed-size blocks called page frames.
+##### Virtual memory 
+Each process is given its own virtual address space, which is divided into pages.
+The virtual address space is much larger than the physical memory (RAM).
+##### Numerically 
+To solve something numerically means through approximation/ iteration
+##### Heap
+The heap is used for allocating memory at runtime, as opposed to compile-time. Unlike the stack, which has a Last-In-First-Out (LIFO) structure, the heap allows for more flexible memory allocation patterns##### Kernal Space 
 ##### Stack
+A stack is a data structure that follows the Last-In-First-Out (LIFO) principle. This means that the last element added to the stack is the first one to be removed. Used for function call management, including local variables and return addresses.
 ##### Mmap segment
+The mmap segment in a process’s virtual memory is used for memory-mapped files and shared memory. This segment allows files or devices to be mapped directly into the process’s address space, enabling efficient file I/O and inter-process communication
 ##### BSS segemnt 
+The BSS (Block Started by Symbol) segment is a portion of a program’s memory that contains uninitialized global and static variables.
 ##### Data segment 
+Contains initialized global and static variables. These variables have explicit initial values set in the source code.
 ##### Text Segment
-##### Address Space Layout Randomization (ASLR)
+Contains the executable code of the program##### Address Space Layout Randomization (ASLR)
 
 
 
@@ -61,15 +82,17 @@ Load/Store Architecture: Data processing operations are performed only on regist
 Fixed Instruction Length: Instructions are typically of a uniform length, which simplifies instruction decoding and pipelining.
 Large Number of Registers: RISC architectures often have a large number of general-purpose registers to reduce the frequency of memory access.
 
-![Screenshot 2024-10-10 at 19 53 38](https://github.com/user-attachments/assets/48aff00a-2f26-498c-8497-233b13387762)
-
-![Screenshot 2024-10-10 at 19 57 04](https://github.com/user-attachments/assets/7144c23d-ec33-42b9-8800-2bb5aee21f45)
-
 Key Characteristics of CISC:
 Complex Instructions: CISC processors have a large number of instructions, some of which can perform multi-step operations or complex tasks within a single instruction.
 Variable Instruction Length: Instructions can vary in length, which can make decoding more complex but allows for more flexible and powerful instructions.
 Fewer Registers: Compared to RISC architectures, CISC processors typically have fewer general-purpose registers.
 Microcode: Many CISC instructions are implemented using microcode, which translates complex instructions into simpler, lower-level operations within the CPU.
+
+![Screenshot 2024-10-10 at 19 53 38](https://github.com/user-attachments/assets/48aff00a-2f26-498c-8497-233b13387762)
+
+![Screenshot 2024-10-10 at 19 57 04](https://github.com/user-attachments/assets/7144c23d-ec33-42b9-8800-2bb5aee21f45)
+
+
 
 ![Screenshot 2024-10-10 at 19 58 08](https://github.com/user-attachments/assets/f63714b4-03bb-4df7-9e23-e77e59feed70)
 
