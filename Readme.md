@@ -3,6 +3,11 @@
 ## Exam Structure 
 25% Coursework (4 Practicals) and 75% Examination
 
+## Target hours revision 
+**Target**: 150 \
+**Current**: 18\
+**Hours per day needed**: ?
+
 ## Term Coursework Structure 
 
 ##### Advanced Java A1 - 01/11/2024 
@@ -16,11 +21,6 @@
 ##### Networks Problem solving exercises (30%) Deadline - 13/12/2024
 ##### Machine Learning Assessment 2 - Deadline 13/01/2024
 
-
-## Target hours revision 
-**Target**: 150 \
-**Current**: 17\
-**Hours per day needed**: ?
 
 ### Glossary 
 
