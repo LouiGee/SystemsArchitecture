@@ -21,6 +21,23 @@
 ##### Networks Problem solving exercises (30%) Deadline - 13/12/2024
 ##### Machine Learning Assessment 2 - Deadline 13/01/2024
 
+### Questions
+
+##### Explain the Von Neumann Architecture and articulate the Von Neumann Bottleneck 
+##### Explain the Turing Architecture and why a non Turing architecture will prevail 
+##### Explain Neuromorphic computing and why it enables a solution to compute demand
+##### Explain Quantum computing architecture and some applications
+##### Explain the parts of a transistor
+##### What is a program counter 
+##### What are the notations for octal, decimal and hexadecimal
+##### Explain the core parts of a computer ( Control unit, register file, ALU, Memory, memory bus) 
+##### Who is the inventor of the adder?
+##### Which logic gates make up a half adder?
+##### Which logic gates make up a full adder?
+##### What are the role of switches and transistors?
+##### Symbols for AND, OR, NOR, NAND, XOR, NOT logic gates and truth tables
+##### 0x7 - 0x9?
+
 
 ### Glossary 
 
