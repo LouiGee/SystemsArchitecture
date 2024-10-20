@@ -40,9 +40,9 @@
 #####  is the bitwise-or operator. What is 13|10?
 ##### What is 13&10?
 ##### What is the forumla for the number ranges of n-digit binary sequence?
-##### How much memory can a 32 bit machine address. 
+##### How much memory can a 32 bit machine address?
 ##### What is a stack counter, flags counter and the accumulator?
-
+##### What type of operations can a ALU handle?
 
 ### Glossary 
 
