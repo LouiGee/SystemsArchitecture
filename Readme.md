@@ -37,6 +37,11 @@
 ##### What are the role of switches and transistors?
 ##### Symbols for AND, OR, NOR, NAND, XOR, NOT logic gates and truth tables
 ##### 0x7 - 0x9?
+#####  is the bitwise-or operator. What is 13|10?
+##### What is 13&10?
+##### What is the forumla for the number ranges of n-digit binary sequence?
+##### How much memory can a 32 bit machine address. 
+##### What is a stack counter, flags counter and the accumulator?
 
 
 ### Glossary 
