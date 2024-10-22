@@ -5,7 +5,7 @@
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 28.5\
+**Current**: 30.5\
 **Hours per day needed**: ?
 
 ## Term Coursework Structure 
